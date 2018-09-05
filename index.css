@@ -1,0 +1,141 @@
+@charset "utf-8";
+
+/*统一设置*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+ol,ul,li{
+	list-style-type: none;
+}
+
+body{
+	font-size: 12px;
+	font-family: "微软雅黑";
+	color: #000000;
+}
+
+a{
+	color: #000000;
+	text-decoration: none;
+}
+
+/*收藏栏*/
+#shoucang {
+	height: 31px;
+	line-height: 31px;
+	margin: 0 auto;
+	color: #656565;
+}
+
+#shoucang a{
+	color: ;
+}
+
+#shoucang span{
+	margin-left: 732px;
+	color: #000000;
+}
+
+#shoucang a:hover{
+	color: #FF0000;
+}
+
+
+/*导航栏*/
+#nav{
+	
+	height: 85px;
+	background: #1d7ad9;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#nav img{
+	margin-left: 41px;
+}
+
+#wrapper{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#nav input{
+	display: inline;
+	position: absolute;
+}
+
+#search{
+	width: 360px;
+	height: 35px;
+	margin-left: 185px;
+	outline: none;
+	margin-top: 23px;
+	border: none;
+	float: left;
+}
+
+#button{
+	width: 70px;
+	height: 35px;
+	background: #ff8c00;
+	margin-left: 545px;
+	border: none;
+	margin-top: 23px;
+	color: #FFFFFF;
+	cursor: pointer;
+	outline: none;
+	font-size: 14px;
+}
+
+#shop{
+	background: #FF8C00;
+}
+
+#shopcar{
+	/*width: 87px;
+	height: 35px;
+	border-right: 1px solid #e27a00;
+	background-color: #ff8c00;
+	margin-top: 23px;
+	font-size: 14px;
+	color: #ffffff;*/
+	/*float: right;*/
+	/*background: url(images/icon/shopIcon.png) no-repeat 10px center;
+	text-indent: 40px;
+	margin-left: 5px;
+	position: absolute;
+	left: 840px;
+}*/
+
+#fenlei{
+	height: 20px;
+	background: #1369c0;
+	margin: 0 auto;
+	/*float: left;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
